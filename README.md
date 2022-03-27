@@ -7,8 +7,10 @@ Utilizing python and SQL to build-out ETL pipelines that clean, transform, and l
 
 1. Python,
 2. Jupyter Notebook,
-3. PostgreSQL, and
-4. 3 datasets in different formats:
+3. PostgreSQL
+4. 
+### 3 datasets in different formats:
+
 * Movie data scrapped from Wikipedia in JSON file
 * The Kaggle dataset in CSV file with details about the movies from The Movie Database (TMDb)
 * MovieLens dataset as CSV file of over 20 million reviews.
